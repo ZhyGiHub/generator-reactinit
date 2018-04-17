@@ -1,24 +1,24 @@
 {
-  "name": "generator-reactpackage",
-  "version": "0.0.4",
-  "description": "基于ract+webpack的项目目录快速生成器",
+  "name": "generator-reactinit",
+  "version": "0.0.1",
+  "description": "基于react+webpack的项目目录快速生成器",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/luckykun/generator-reactpackage.git"
+    "url": "https://github.com/zhanghaoyang/generator-reactinit.git"
   },
   "keywords": [
     "yeoman-generator"
   ],
-  "author": "luckykun",
+  "author": "zhanghaoyang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luckykun/generator-reactpackage/issues"
+    "url": "https://github.com/zhanghaoyang/generator-reactinit/issues"
   },
-  "homepage": "https://github.com/luckykun/generator-reactpackage",
+  "homepage": "https://github.com/zhanghaoyang/generator-reactinit",
   "dependencies": {
     "chai": "^3.3.0",
     "chalk": "^1.1.1",
